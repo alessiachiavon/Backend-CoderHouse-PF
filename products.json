@@ -1,0 +1,12 @@
+[
+    {
+        "productTitle": "Sacapuntas",
+        "productDescription": "Sacapuntas metálico",
+        "productCode": "S01",
+        "productPrice": 280,
+        "productStock": 24,
+        "productCategory": "Útiles",
+        "id": 1,
+        "status": true
+    }
+]
